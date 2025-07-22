@@ -1,0 +1,45 @@
+{
+  "name": "decentralized-voting-server",
+  "version": "1.0.0",
+  "description": "Backend server for decentralized voting system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "connect-sqlite3": "^0.9.16",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "express-session": "^1.18.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-jwt": "^4.0.1",
+    "sqlite3": "^5.1.7",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [
+    "blockchain",
+    "voting",
+    "ethereum",
+    "solidity",
+    "express",
+    "sqlite"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
