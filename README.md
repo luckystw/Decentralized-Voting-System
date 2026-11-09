@@ -260,10 +260,6 @@ We welcome contributions! Please follow these steps:
 - Ensure all tests pass
 - Follow security best practices
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Ethereum Foundation**: For blockchain technology
